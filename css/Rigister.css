@@ -297,6 +297,30 @@ header nav .icons a:hover{
 .contact .btn:hover{
     scale: 1.1;
 }
+.select{
+    width: 100%;
+    font-size: 25px;
+}
+.label{
+    color: #2192BF;
+    font-size: 23px;
+    margin: 0 0 5px 0;
+}
+.footerBottom{
+    background-color: #000;
+    padding: 20px;
+    text-align: center;
+}
+.footerBottom p{
+    color: white;
+}
+.designer{
+    opacity: 0.7;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400;
+    margin: 0px 5px;
+}
 
 /* End contact */ 
 

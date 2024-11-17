@@ -520,6 +520,15 @@ header nav .icons a:hover{
     scale: 1.1;
 }
 
+.select{
+    width: 100%;
+    font-size: 25px;
+}
+.label{
+    color: #2192BF;
+    font-size: 23px;
+    margin: 0 0 5px 0;
+}
 /* End contact */ 
 
 

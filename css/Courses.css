@@ -319,6 +319,7 @@ footer{
     background-color: #000;
     padding: 20px;
     text-align: center;
+    width: 100%;
 }
 .footerBottom p{
     color: white;
