@@ -531,6 +531,17 @@ header nav .icons a:hover{
 .contact .btn:hover{
     scale: 1.1;
 }
+.contact .photo{
+    display: flex;
+    justify-content: center;
+    transition: 0.4;
+}
+.contact .photo a img{
+    width: 200px;
+}
+.contact .photo a img:hover{
+    scale: 1.2;
+}
 
 footer{
     background-color: #111;
@@ -609,6 +620,8 @@ footer{
     font-size: 23px;
     margin: 0 0 5px 0;
 }
+
+
 /* End contact */ 
 
 
@@ -752,6 +765,14 @@ header .links .logo,
     .contact .btn{
         font-size: 16px;
         padding: 13px 28px;
+    }
+    .contact .photo{
+        display: flex;
+        justify-content: center;
+        transition: 0.4;
+    }
+    .contact .photo a img{
+        width: 200px;
     }
 }
 
