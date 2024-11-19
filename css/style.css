@@ -532,15 +532,15 @@ header nav .icons a:hover{
     scale: 1.1;
 }
 .contact .photo{
-    display: flex;
-    justify-content: center;
+    justify-content: left;
     transition: 0.4;
 }
 .contact .photo a img{
-    width: 200px;
+    width: 210px;
+    
 }
 .contact .photo a img:hover{
-    scale: 1.2;
+    scale: 1.1;
 }
 
 footer{
